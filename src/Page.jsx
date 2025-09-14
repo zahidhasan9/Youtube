@@ -2,13 +2,7 @@
 import React from "react";
 import VideoCard from "./component/VideoCard";
 const videos = [
-  "https://www.youtube.com/embed/HomVywfxZ1o",
-  "https://www.youtube.com/embed/HomVywfxZ1o",
-  "https://www.youtube.com/embed/HomVywfxZ1o",
-  "https://www.youtube.com/embed/HomVywfxZ1o",
-  "https://www.youtube.com/embed/HomVywfxZ1o",
-  "https://www.youtube.com/embed/HomVywfxZ1o",
-  
+  "https://www.youtube.com/embed/HomVywfxZ1o", 
   "https://www.youtube.com/embed/3bZcD2ZUZcE",
   "https://www.youtube.com/embed/hOw8FGdeJX8",
   "https://www.youtube.com/embed/KTmPhev-0cg",
