@@ -3,8 +3,8 @@ import React from "react";
 import VideoCard from "./component/VideoCard";
 const videos = [
   "https://www.youtube.com/embed/HomVywfxZ1o",
-  "https://www.youtube.com/embed/dQw4w9WgXcQ",
-  "https://www.youtube.com/embed/VIDEO_ID_3"
+  "https://www.youtube.com/embed/3bZcD2ZUZcE",
+  "https://www.youtube.com/embed/hOw8FGdeJX8"
 ];
 
 const VideoList = () => {
