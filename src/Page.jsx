@@ -11,7 +11,7 @@ import VideoCard from "./component/VideoCard";
 const videos = [
   "https://www.youtube.com/embed/8-ioO6m01o", 
   "https://www.youtube.com/embed/42n8bHKOP94",
-  "https://www.youtube.com/embed/hOw8FGdeJX8",
+  "https://www.youtube.com/watch?v=P6zpO979izs",
   "https://www.youtube.com/embed/KTmPhev-0cg",
   "https://www.youtube.com/embed/5g2tj2oe-ao"
 ];
